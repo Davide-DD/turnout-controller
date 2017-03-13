@@ -26,4 +26,5 @@ In the folder **tests**, there are two shell scripts that will let you emulate t
 ## License and more
 
 Turnout Controller is published under **GNU General Public License v3.0**.
+
 Copyright (C) [**MrOverfl00w**](https://github.com/MrOverflOOw) & [**iFedix**](https://github.com/iFedix) 2017
