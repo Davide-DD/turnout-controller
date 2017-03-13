@@ -31,6 +31,7 @@ from ryu.app.wsgi import ControllerBase, WSGIApplication
 # GET /web/{file}
 #
 
+
 class WebController(ControllerBase):
     def __init__(self, req, link, data, **config):
         super(WebController, self).__init__(req, link, data, **config)
