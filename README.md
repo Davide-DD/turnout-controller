@@ -23,6 +23,10 @@ It maps, through WSGI, each request from the Web GUI to turnout.py.
 
 In the folder **tests**, there are two shell scripts that will let you emulate two different network, to test how this controller application works. Try communicating between those two computers using different protocols and see how this controller application behaves.
 
+## Docs
+
+Inside folder **docs**, you can find some documents, where all the files in this repository, among many other things, are described in detail, if you are interested.
+
 ## License and more
 
 Turnout Controller is published under **GNU General Public License v3.0**. Special thanks to **Srini Seetharaman** from http://sdnhub.org for his Ryu related works.
