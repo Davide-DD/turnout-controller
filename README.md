@@ -31,4 +31,4 @@ Inside folder **docs**, you can find some documents, where all the files in this
 
 Turnout Controller is published under **GNU General Public License v3.0**. Special thanks to **Srini Seetharaman** from http://sdnhub.org for his Ryu related works.
 
-Copyright (©) [**MrOverfl00w**](https://github.com/MrOverflOOw) & [**iFedix**](https://github.com/iFedix) 2017
+Copyright (©) [**Davide Di Donato**](https://github.com/MrOverflOOw) & [**Federico Livi**](https://github.com/iFedix) 2017
